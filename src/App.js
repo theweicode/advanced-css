@@ -22,7 +22,7 @@ function App() {
     <div className="box">Box 3</div>
     <div className="box">Box 4</div>
     <div className="box2">Box 5</div>
-    <div className="box3">Box 6</div>
+    <div className="box33">Box 33</div>
     </div>
 
     </div>
